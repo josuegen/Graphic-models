@@ -1,3 +1,6 @@
+/*To be able to use properly this code you need to install the glut library, google it!*/
+
+
 #include <windows.h>
 #include <GL/glut.h>
 
