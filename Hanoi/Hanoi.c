@@ -1,4 +1,5 @@
 /*To be able to use properly this code you need to install the glut library, google it!*/
+/*Para poder usar correctamente este código necesitas isntalar la libería glut, googléalo!*/
 
 
 #include <windows.h>
